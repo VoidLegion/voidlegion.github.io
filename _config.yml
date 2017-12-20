@@ -1,7 +1,7 @@
 # Site settings
 title: Void Legion
 description: > # this means to ignore newlines until "baseurl:"
-  Void is a group of gamers that have been together for over five years. We started with Aion on the server Meslamtaeda with the idea of social adults gathering together in a guild dedicated to steady progression, end game PvPvE and an emphasis on fun. We are now actively playing ArcheAge on the server Tahyang. Our goal has never been to be the #1 guild or the most hardcore guild but instead to offer the best experience possible to both PvP and PvE players.
+  Void's sleeping... come back later.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.voidlegion.com" # the base hostname & protocol for your site
 
